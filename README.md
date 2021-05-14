@@ -23,7 +23,7 @@ npm start
 In a separate Terminal shell:
 
 ```
-npm run watch-css
+npm run css-watch
 ```
 
 ### Open Browser
